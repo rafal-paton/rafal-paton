@@ -9,10 +9,10 @@ Passionate software developer with over 9 years in the tech industry, specializi
 
 Over time, I shifted my focus toward **Java and modern web technologies**, combining my technical expertise with a deep interest in backend and full-stack development. I enjoy tackling challenging problems, writing clean and maintainable code, and continuously expanding my knowledge in web application development.  
 
-- 💡 **Backend:** Java, Spring, Spring Boot  
+- 💡 **Backend:** Java, Spring (Data, MVC, WebFlux, Security), Spring Boot  
 - 🎨 **Frontend:** Angular, TypeScript, JavaScript  
-- 🗄️ **Databases:** PostgreSQL, MySQL  
-- 🔧 **Other:** REST APIs, WebFlux, software architecture  
+- 🗄️ **Databases:** PostgreSQL, MongoDB
+- 🔧 **Other:** REST APIs, AWS, Docker
 
 Feel free to explore my repositories or reach out for collaboration!  
 
