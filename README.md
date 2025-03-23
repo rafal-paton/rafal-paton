@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me  
 
-Passionate software developer with over 9 years in the tech industry, specializing in building reliable solutions. I have extensive experience in programming, having worked on complex **robotic automation systems** for global brands like **Daimler and Audi**. My background includes developing and optimizing industrial **robotic workflows**, ensuring precision, efficiency, and seamless integration with manufacturing processes.  
+Passionate software developer with over 9 years in the tech industry, specializing in building reliable solutions. I have extensive experience in programming, having worked on complex **robotic automation systems** for global brands like **Mercedes and Audi**. My background includes developing and optimizing industrial **robotic workflows**, ensuring precision, efficiency, and seamless integration with manufacturing processes.  
 
 Over time, I shifted my focus toward **Java and modern web technologies**, combining my technical expertise with a deep interest in backend and full-stack development. I enjoy tackling challenging problems, writing clean and maintainable code, and continuously expanding my knowledge in web application development.  
 
