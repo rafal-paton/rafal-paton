@@ -5,14 +5,16 @@
 
 ### 👨‍💻 About Me  
 
-Passionate software developer with over 9 years in the tech industry. I have extensive experience in programming, having worked on complex **robotic automation systems** for global brands like **Mercedes and Audi**. My background includes developing and optimizing industrial **robotic workflows**, ensuring precision, efficiency, and seamless integration with manufacturing processes.  
+Java developer focused on backend development and building clean, well-structured web applications. I enjoy understanding how systems work under the hood and designing solutions that are maintainable, efficient, and scalable.
 
-Over time, I shifted my focus toward **Java and modern web technologies**, combining my technical expertise with a deep interest in backend and full-stack development. I enjoy tackling challenging problems, writing clean and maintainable code, and continuously expanding my knowledge in web application development.  
+Before fully transitioning into software development, I spent nearly 10 years in the technology sector working on complex international automation projects for leading automotive brands. This background strengthened my analytical thinking, problem-solving approach, and ability to work effectively in multidisciplinary teams — skills I now apply daily in software engineering.
 
-- 💡 **Backend:** Java, Spring (Boot, Data, MVC, WebFlux, Security) 
-- 🎨 **Frontend:** Angular
-- 🗄️ **Databases:** PostgreSQL, MongoDB
-- 🔧 **Other:** REST APIs, AWS, Docker
+Currently focused on:
+	•	Java & Spring ecosystem (Boot, Data, Security, WebFlux)
+	•	RESTful APIs and backend architecture
+	•	Clean code, testing, and best practices
+
+Always eager to learn, improve, and contribute to meaningful, well-designed software.
 
 Feel free to explore my repositories or reach out for collaboration!  
 
