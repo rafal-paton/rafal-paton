@@ -26,7 +26,7 @@ Feel free to explore my repositories or reach out for collaboration!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,angular,spring,docker,mysql,git,linux,html,css,maven" />
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,mysql,git,html,css,maven" />
   </a>
 </p>
 
